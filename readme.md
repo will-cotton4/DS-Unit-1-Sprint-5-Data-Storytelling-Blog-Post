@@ -1,4 +1,4 @@
-# DS2 Data Storytelling portfolio project
+# DS Data Storytelling portfolio project
 
 Contents
 - [Deliverables](#deliverables)
@@ -59,36 +59,36 @@ Recommended
 
 _These milestones are suggested to help you have confidence that you're on track for a great project!_
 
-Friday, January 18
+Friday, Sprint 2
 - Look at examples
 
-Thursday, January 24
+Thursday, Sprint 3
 - Start your GitHub Pages portfolio site
 
-Thursday, January 31
+Thursday, Sprint 4
 - Finalize your topic and dataset
 
-Friday, February 1
+Friday, Sprint 4
 - Write the first draft of your project description, for your short summary
 
-Monday, February 4 — start of day
+Monday, Sprint 5 — start of day
 - Begin to analyze and visualize your data
 
-Tuesday, February 5 — end of day
+Tuesday, Sprint 5 — end of day
 - Revise your description for your short summary
 - Create your first annotated visualization for your short summary
 
-Thursday, February 7 — end of day
+Thursday, Sprint 5 — end of day
 - Complete your code and blog post
 
-Friday, February 8 — AM
+Friday, Sprint 5 — AM
 - Practice your 2 minute presentation
 - Publish your blog post on Medium or GitHub Pages
 - Push your code to GitHub
 - Add your short summary to your porfolio site
 - Link from your portfolio site to your blog post and code
 
-Friday, February 8 — PM
+Friday, Sprint 5 — PM
 - Give your 2 minute presentation for your cohort
 
 ## Examples
