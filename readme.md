@@ -1,6 +1,6 @@
 # DS Data Storytelling portfolio project
 
-##PROJECT SUMMARY:
+## PROJECT SUMMARY:
 
 **Innovation and entrepreneurship require a robust system of infrastructure and social capital. In this blog post, I explore the relationship between the availability of electricity and the proportion of GDP contributed by agriculture.** (check repo for visualization)
 
