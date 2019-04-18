@@ -34,6 +34,8 @@ Required
 - Describe your project in 280 characters or less.
 - Choose one data visualization (static image or animated gif) from your blog post.
 - [Annotate your visualization](https://www.dataquest.io/blog/making-538-plots/) so it’s understandable on its own, without reading your blog post.
+####SUMMARY:
+**Innovation and entrepreneurship require a robust system of infrastructure and social capital. In this blog post, I explore the relationship between the availability of electricity and the proportion of GDP contributed by agriculture.** (check repo for visualization)
 
 Recommended
 - Share your short project summary on Twitter or LinkedIn, and link to your blog post.
